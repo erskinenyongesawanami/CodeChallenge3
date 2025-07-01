@@ -2,15 +2,27 @@
   "posts": [
     {
       "id": 1,
-      "title": "My First Post",
-      "content": "This is the body of the first post.",
-      "author": "Moha"
+      "title": "Exploring the Cosmos",
+      "author": "Carl Sagan",
+      "image": "https://picsum.photos/id/1015/600/300",
+      "content": "Somewhere, something incredible is waiting to be known. We are a way for the cosmos to know itself.",
+      "date": "2025-06-30"
     },
     {
       "id": 2,
-      "title": "Another Day in Tech",
-      "content": "Exploring APIs and DOM today!",
-      "author": "Afif"
+      "title": "A Walk in the Woods",
+      "author": "Bill Bryson",
+      "image": "https://picsum.photos/id/1011/600/300",
+      "content": "The forest reveals its magic slowly and silently. Every tree is a wonder of design.",
+      "date": "2025-06-29"
+    },
+    {
+      "id": 3,
+      "title": "Tech and Tomorrow",
+      "author": "Ada Lovelace",
+      "image": "https://picsum.photos/id/1025/600/300",
+      "content": "The future of technology is built with imagination and logic. What we create today shapes tomorrow.",
+      "date": "2025-06-28"
     }
   ]
 }
